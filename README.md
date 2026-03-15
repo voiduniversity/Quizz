@@ -1,7 +1,6 @@
 # 📄 Quizz
 Quizz is a Python Project in which you test yourself and your skills
 in answering questions. It is a multiple answer Quiz at the moment.
-// Made by paycheckbelfast
 
 ## 💻 Functionality
 - Quiz itself can be as long as you want it to be
