@@ -43,5 +43,4 @@ To check if you have Python, open the terminal on your Operating System and type
 **paycheckbelfast**
 - Github: https://github.com/paycheckbelfast
 - Website: https://readymag.website/u3762128447/paycheckbelfastportfolio/
-- LinkedIn: https://www.linkedin.com/in/david-mihai-5a8422381/
 - StackOverflow: https://stackoverflow.com/users/32137262/paycheckbelfast
