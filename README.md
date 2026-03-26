@@ -24,8 +24,8 @@ This is a work in progress. Any suggestions? Make sure to leave me a message
 ## ⬇️ Installation
 Download the source code folder from the latest releases and extract it wherever you think is best. After you do, get the *Directory Path* in which the folder is in.
 
-Open Quizz.py inside the folder using your own IDE. Scroll down to the very bottom until you find `def currentDirectory()`. Inside that function, you will have to insert your *Directory Path* within the quotation marks. For example:
-Download Folder Example:
+Open Quizz.py inside the folder using your own IDE. Scroll down to the very bottom until you find `def currentDirectory()`. Inside that function, you will have to insert your *Directory Path* within the quotation marks. 
+For example, Download Folder Example:
 - MacOs: os.chdir(r"/Users/YourUser/Downloads/Quizz-1.1")
 - Windows: os.chdir(r"\Users\YourUser\Downloads\Quizz-1.1")
 
