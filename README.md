@@ -26,8 +26,8 @@ Download v1.1 and extract it wherever you think is best. After you do, get the *
 
 Open Quizz.py inside the folder using your own IDE. Scroll down to the very bottom until you find `def currentDirectory()`. Inside that function, you will have to insert your *Directory Path* within the quotation marks. For example:
 Download Folder Example:
-- MacOs: os.chdir(r"/Users/YourUser/Downloads/QuizzV1")
-- Windows: os.chdir(r"\Users\YourUser\Downloads\QuizzV1")
+- MacOs: os.chdir(r"/Users/YourUser/Downloads/v1.1")
+- Windows: os.chdir(r"\Users\YourUser\Downloads\v1.1")
 
 ## ❓ Don't Have Python?
 If you do not have python yet, make sure to install it from their official website:
