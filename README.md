@@ -8,7 +8,7 @@ in answering questions. It is a multiple answer Quiz at the moment.
 - Highscore function so you can go against your friends (Has to be on the same device)
 - Fully customisable
 
-## 🆙 Update
+## 🆙 V1.1 Update
 - Add your own questions through the program ❓
 - Introduced Modules 🖖
 

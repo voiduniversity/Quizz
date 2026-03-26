@@ -58,9 +58,15 @@ def mainQuiz(questionsDictionary, answersDictionary, multichoiceDictionary, high
 
 # addHighscore Function - Save & update the highscore in highscoresDictionary
 def addHighscore(quizzHighscore, highscoresDictionary):
-    name = str(input("Enter your name: "))
-    score = points
-    highscoresDictionary[name] = points
+    while True:
+        name = str(input("Enter your name: "))
+        if " " in name:
+            print("Name should not contain any spaces")
+            continue
+        else:
+            score = points
+            highscoresDictionary[name] = points
+            break
 
     updateHighscore(quizzHighscore, highscoresDictionary)
 
