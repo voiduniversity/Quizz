@@ -18,16 +18,16 @@ You may be asked to "Trust this Publisher". Press it to allow the project to sav
 This is a work in progress. Any suggestions? Make sure to leave me a message
 
 ## 💫 Future Updates
-- GUI Implementation 👨‍💻
-- AI Explanation at answers you got wrong 🤖
+- 👨‍💻 GUI Implementation
+- 🤖 AI Explanation at answers you got wrong
 
 ## ⬇️ Installation
-Download v1.1 and extract it wherever you think is best. After you do, get the *Directory Path* in which the folder is in.
+Download the source code folder from the latest releases and extract it wherever you think is best. After you do, get the *Directory Path* in which the folder is in.
 
 Open Quizz.py inside the folder using your own IDE. Scroll down to the very bottom until you find `def currentDirectory()`. Inside that function, you will have to insert your *Directory Path* within the quotation marks. For example:
 Download Folder Example:
-- MacOs: os.chdir(r"/Users/YourUser/Downloads/v1.1")
-- Windows: os.chdir(r"\Users\YourUser\Downloads\v1.1")
+- MacOs: os.chdir(r"/Users/YourUser/Downloads/Quizz-1.1")
+- Windows: os.chdir(r"\Users\YourUser\Downloads\Quizz-1.1")
 
 ## ❓ Don't Have Python?
 If you do not have python yet, make sure to install it from their official website:
