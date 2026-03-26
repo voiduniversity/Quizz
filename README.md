@@ -8,9 +8,9 @@ in answering questions. It is a multiple answer Quiz at the moment.
 - Highscore function so you can go against your friends (Has to be on the same device)
 - Fully customisable
 
-## 🆙 Update
-- Add your own questions through the program ❓
-- Introduced Modules 🖖
+## 🆙 v1.1 Update
+- Add your own questions through the program
+- Introduced Modules
 
 ## ‼️ Important Information
 You may be asked to "Trust this Publisher". Press it to allow the project to save and update your progress and to also read your questions inside the .txt files.

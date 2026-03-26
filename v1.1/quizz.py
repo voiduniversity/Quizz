@@ -3,7 +3,7 @@
 import os
 import random
 from ownQuestions import *
-from Loaders import *
+from loaders import *
 from quizzFile import *
 
 # Global Files - needed to load the questions, answers and multichoices & to store current highscore
@@ -91,7 +91,7 @@ def highscores():
 # that this folder is currently in
 def currentDirectory():
     try:
-        os.chdir(r"YourDirectory") # Change to your directory
+        os.chdir(r"YourDicrectory") # Change to your directory
     except Exception as e:
         print("Please enter your file directory in this function: currentDirectory()")
         exit()
