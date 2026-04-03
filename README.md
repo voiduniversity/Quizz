@@ -39,7 +39,7 @@ To check if you have Python, open the terminal on your Operating System and type
 - MacOs: `python3 --version`
 
 ## ✍️ Authors
-**paycheckbelfast**
+**void**
 - Github: https://github.com/paycheckbelfast
 - Website: https://readymag.website/u3762128447/paycheckbelfastportfolio/
 - StackOverflow: https://stackoverflow.com/users/32137262/paycheckbelfast
