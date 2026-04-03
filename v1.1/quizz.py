@@ -87,8 +87,7 @@ def highscores():
                 print("Please type either R or r to return.")
                 userInput = str(input("Type R/r to return: "))
 
-# currentDirectory Function - Change "YourDirectory" to the Directory Path
-# that this folder is currently in
+# currentDirectory Function // Connect modules inside the folder path
 def currentDirectory():
     try:
         os.chdir(r"YourDicrectory") # Change to your directory
